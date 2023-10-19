@@ -1,0 +1,1 @@
+# equifidy_estoque
